@@ -1,0 +1,25 @@
+{
+  "name": "rdf-store-abstract",
+  "version": "0.1.0",
+  "description": "Abstract RDF Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicola/rdf-store-abstract.git"
+  },
+  "keywords": [
+    "rdf-stores",
+    "rdf",
+    "linked",
+    "data"
+  ],
+  "author": "Nicola Greco <me@nicola.io> (http://nicolagreco.com/)",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/nicola/rdf-store-abstract/issues"
+  },
+  "homepage": "https://github.com/nicola/rdf-store-abstract"
+}
