@@ -1,6 +1,6 @@
 {
   "name": "rdf-store-abstract",
-  "version": "0.3.0-rc1",
+  "version": "0.3.0",
   "description": "Abstract RDF Store that follows the RDF Interface specification",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
   "homepage": "https://github.com/rdf-ext/rdf-store-abstract",
   "devDependencies": {
     "mocha": "^2.3.3",
-    "rdf-ext": "^0.3.0-rc1"
+    "rdf-ext": "^0.3.0"
   }
 }
